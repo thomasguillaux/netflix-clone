@@ -123,6 +123,10 @@ button:last-child {
 }
 
 .thumbnails-list {
-    margin-left: 40px;
-    
+    margin-left: 40px; 
+}
+
+.footer {
+    height: 100px;
+    background-color: black;
 }
